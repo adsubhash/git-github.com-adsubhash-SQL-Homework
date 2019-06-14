@@ -1,5 +1,5 @@
 -- 1. Select all cities in the BGR country code and not in the District of England.
- select * from city where CountryCode like 'BGR';
+ --select * from city where CountryCode like 'BGR';
 -- 2. SELECT DISTINCT 'BGR' FROM city where CountryCode not like 'England';
 --select * from city where'BGR' where CountryCode not like 'England';
  -- select * from city where CountryCode not like 'BGR' and CountryCode not like 'England';
